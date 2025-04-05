@@ -5,3 +5,5 @@ class Hyperparameter:
     def train_meter(self):
         print("training......")
         return "training"
+
+label = 3
